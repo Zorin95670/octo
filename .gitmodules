@@ -1,0 +1,6 @@
+[submodule "octo-board"]
+	path = octo-board
+	url = https://github.com/Zorin95670/octo-board.git
+[submodule "octo-spy"]
+	path = octo-spy
+	url = https://github.com/Zorin95670/octo-spy.git
