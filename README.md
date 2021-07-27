@@ -6,12 +6,6 @@ It provide a website to see all deployed versions.
 
 ## Installation
 
-After cloning this project, initialize submodule.
-
-```
-git submodule init
-```
-
 Checkout your wanted release you want to install.
 
 ```
@@ -22,7 +16,7 @@ git checkout <tag>
 And update submodule.
 
 ```
-git submodule update
+git submodule update --init --recursive
 ```
 
 This project is a combination of an api and a web-application.
