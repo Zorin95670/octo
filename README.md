@@ -48,6 +48,6 @@ It need 3 docker image:
 
 - `octo-spy`
 - `octo-board`
-- `postgres:9.6`
+- `postgres:13.3`
 
 ## How to use it
