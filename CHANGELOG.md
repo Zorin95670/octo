@@ -1,5 +1,10 @@
 # Octo
 
+## 2021/09/15: Version 1.3.1
+
+* Upgrade octo-board version 2.6.2, see (changelog)[https://github.com/Zorin95670/octo-board/blob/2.6.2/CHANGELOG]
+* Upgrade octo-spy version 1.11.2, see (changelog)[https://github.com/Zorin95670/octo-spy/blob/1.11.2/CHANGELOG]
+
 ## 2021/09/08: Version 1.3.0
 
 * Upgrade octo-board version 2.6.1, see (changelog)[https://github.com/Zorin95670/octo-board/blob/2.6.1/CHANGELOG]
