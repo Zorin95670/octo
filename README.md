@@ -4,6 +4,8 @@ Octo is an application to register version product of an enterprise.
 
 It provide a website to see all deployed versions.
 
+![Octo preview](https://github.com/Zorin95670/octo/blob/main/assets/example.png)
+
 ## Documentation
 
 You can find complete documentation [here](https://zorin95670.github.io/octo-docs/#introduction).
