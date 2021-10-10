@@ -1,5 +1,9 @@
 # Octo
 
+## 2021/10/10: Version 1.4.1
+
+* Upgrade octo-board version 2.8.1, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.8.1/CHANGELOG)
+
 ## 2021/09/27: Version 1.4.0
 
 * Upgrade octo-board version 2.8.0, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.8.0/CHANGELOG)
