@@ -1,5 +1,17 @@
 # Octo
 
+## 2021/10/12: Version 1.5.0
+
+* Upgrade octo-board version 2.9.0, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.8.0/CHANGELOG)
+* Upgrade octo-spy version 1.13.0, see [changelog](https://github.com/Zorin95670/octo-spy/blob/1.12.1/CHANGELOG.md)
+
+:heavy_exclamation_mark: **All endpoints url are changed please refer this list, to make migration :**
+
+* `/octo-spy/api/project*` -> `/octo-spy/api/projects*`
+* `/octo-spy/api/client*` -> `/octo-spy/api/clients*`
+* `/octo-spy/api/deployment*` -> `/octo-spy/api/deployments*`
+* `/octo-spy/api/environment*` -> `/octo-spy/api/environments*`
+
 ## 2021/10/10: Version 1.4.1
 
 * Upgrade octo-board version 2.8.1, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.8.1/CHANGELOG)
@@ -8,13 +20,6 @@
 
 * Upgrade octo-board version 2.8.0, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.8.0/CHANGELOG)
 * Upgrade octo-spy version 1.12.1, see [changelog](https://github.com/Zorin95670/octo-spy/blob/1.12.1/CHANGELOG)
-
-:heavy_exclamation_mark: **All endpoints url are changed please refer this list, to make migration :**
-
-* `/octo-spy/api/project*` -> `/octo-spy/api/projects*`
-* `/octo-spy/api/client*` -> `/octo-spy/api/clients*`
-* `/octo-spy/api/deployment*` -> `/octo-spy/api/deployments*`
-* `/octo-spy/api/environment*` -> `/octo-spy/api/environments*`
 
 ## 2021/09/15: Version 1.3.1
 
