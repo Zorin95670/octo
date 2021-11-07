@@ -1,9 +1,14 @@
 # Octo
 
+## 2021/11/07: Version 1.6.0
+
+* Upgrade octo-board version 2.10.0, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.10.0/CHANGELOG)
+* Upgrade octo-spy version 1.14.0, see [changelog](https://github.com/Zorin95670/octo-spy/blob/1.14.0/CHANGELOG.md)
+
 ## 2021/10/12: Version 1.5.0
 
-* Upgrade octo-board version 2.9.0, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.8.0/CHANGELOG)
-* Upgrade octo-spy version 1.13.0, see [changelog](https://github.com/Zorin95670/octo-spy/blob/1.12.1/CHANGELOG.md)
+* Upgrade octo-board version 2.9.0, see [changelog](https://github.com/Zorin95670/octo-board/blob/2.9.0/CHANGELOG)
+* Upgrade octo-spy version 1.13.0, see [changelog](https://github.com/Zorin95670/octo-spy/blob/1.13.0/CHANGELOG.md)
 
 :heavy_exclamation_mark: **All endpoints url are changed please refer this list, to make migration :**
 
